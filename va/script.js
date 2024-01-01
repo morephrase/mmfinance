@@ -1,0 +1,26 @@
+<!DOCTYPE html><html translate="no"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, minimum-scale=1, viewport-fit=cover"/><meta name="theme-color" content="#000000"/><title>MadMeerkatFinance</title><meta name="robots" content="index,follow"/><meta name="description" content="Our DEX is community focused and only charges 0.17% fees per trade. We are also the first to incorporate defi and NFT seamlessly on Arbitrum."/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@MadMeerkatFinance"/><meta name="twitter:creator" content="@MadMeerkatFinance"/><meta property="og:title" content="MadMeerkatFinance - A next evolution DeFi exchange on Arbitrum"/><meta property="og:description" content="Our DEX is community focused and only charges 0.17% fees per trade. We are also the first to incorporate defi and NFT seamlessly on Arbitrum."/><meta property="og:image" content="/arbibanner.png"/><meta name="next-head-count" content="12"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" data-href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&amp;display=swap"/><link rel="shortcut icon" href="/favicon.ico"/><link rel="apple-touch-icon" href="/logo.png"/><link rel="manifest" href="/manifest.json"/><link rel="preload" href="/_next/static/css/b9bb63f57f3c9160.css" as="style"/><link rel="stylesheet" href="/_next/static/css/b9bb63f57f3c9160.css" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script src="/_next/static/chunks/webpack-e12abbdca723fc93.js" defer=""></script><script src="/_next/static/chunks/framework-22b52409193a9a55.js" defer=""></script><script src="/_next/static/chunks/main-9db722c04f8e77c2.js" defer=""></script><script src="/_next/static/chunks/pages/_app-42388ab56cff9e91.js" defer=""></script><script src="/_next/static/chunks/pages/404-935776a0d122e465.js" defer=""></script><script src="/_next/static/ay8rR918hn-7DpKpmOFsW/_buildManifest.js" defer=""></script><script src="/_next/static/ay8rR918hn-7DpKpmOFsW/_ssgManifest.js" defer=""></script><style data-styled="" data-styled-version="5.3.3">html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline;}/*!sc*/
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}/*!sc*/
+body{line-height:1;font-size:16px;}/*!sc*/
+ol,ul{list-style:disc;list-style-position:inside;}/*!sc*/
+blockquote,q{quotes:none;}/*!sc*/
+blockquote:before,blockquote:after,q:before,q:after{content:none;}/*!sc*/
+table{border-collapse:collapse;border-spacing:0;}/*!sc*/
+a{color:inherit;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+[role="button"]{cursor:pointer;}/*!sc*/
+*,*::before,*::after{box-sizing:border-box;}/*!sc*/
+*{font-family:'Kanit',sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}/*!sc*/
+input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0;}/*!sc*/
+input[type=number]{-moz-appearance:textfield;}/*!sc*/
+::-webkit-scrollbar{width:8px;}/*!sc*/
+::-webkit-scrollbar-thumb{background:var(--colors-textSubtle);border-radius:8px;}/*!sc*/
+::-webkit-scrollbar-track{box-shadow:inset 0 0 5px var(--colors-input);border-radius:10px;}/*!sc*/
+input[type=range]{-webkit-appearance:none;width:100%;background:transparent;}/*!sc*/
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;}/*!sc*/
+input[type=range]:focus{outline:none;}/*!sc*/
+input[type=range]::-ms-track{width:100%;cursor:pointer;background:transparent;border-color:transparent;color:transparent;}/*!sc*/
+data-styled.g1[id="sc-global-dgmsfR1"]{content:"sc-global-dgmsfR1,"}/*!sc*/
+*{font-family:'Kanit',sans-serif;}/*!sc*/
+body{background-color:var(--colors-background);}/*!sc*/
+body img{height:auto;max-width:100%;}/*!sc*/
+data-styled.g48[id="sc-global-kynYSM1"]{content:"sc-global-kynYSM1,"}/*!sc*/
+</style><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap"/></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLF66T4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="__next"><script>!function(){var d=document.documentElement,n='data-theme',s='setAttribute';d.style.colorScheme = 'dark';d[s](n,'dark')}()</script></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/404","query":{},"buildId":"ay8rR918hn-7DpKpmOFsW","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script><div id="portal-root"></div></body></html>
